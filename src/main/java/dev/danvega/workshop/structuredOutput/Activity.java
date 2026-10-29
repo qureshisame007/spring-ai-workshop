@@ -1,0 +1,4 @@
+package dev.danvega.workshop.structuredOutput;
+
+public record Activity(String activity, String location, String day, String time) {
+}
